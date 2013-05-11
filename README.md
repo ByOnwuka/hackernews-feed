@@ -27,4 +27,9 @@ $ heroku open
 ```
 
 ## Thanks
-* https://github.com/fb55/readabilitySAX
+* https://github.com/fb55/readabilitySAX 
+
+
+``` 
+Warning: This is a toxic branch. It is very unstable and *will* break frequently. Not for the faint of heart. 
+```
